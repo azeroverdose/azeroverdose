@@ -55,7 +55,7 @@ Tools: [ Git, VSCode, Blender ]
   
 ```plaintext
 ｡ﾟﾟ･｡･ﾟﾟ｡  
-ﾟ｡  ✨ stay soft, stay weird ✧  
+ﾟ｡  ✨ stay kind, stay creative, stay weird ✧  
    ﾟ･｡･ﾟ
 ```
 

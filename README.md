@@ -1,4 +1,4 @@
-<!-- Profile README for github.com/azeroverdose -->
+ah<!-- Profile README for github.com/azeroverdose -->
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 ૮₍ ´• ˕ •` ₎ა ୨୧  
  Dev with a passion for chaos, code & cute things.
 
-![Azero Banner](https://i.imgur.com/1WvOgyn.gif)
+![Azero Banner](https://i.imgur.com/VaJf3BO.gif)
 
 </div>
 

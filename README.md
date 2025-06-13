@@ -48,7 +48,6 @@ Tools: [ Git, VSCode, Blender ]
 ### 📫 Reach Out
 
 - 💌 Discord: `azero`
-- 🌐 GitHub: [azeroverdose](https://github.com/azeroverdose)
 - 💕 Support: [throne.com/azero](https://throne.com/azero)
 
 <div align="center">

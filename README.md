@@ -6,7 +6,7 @@
 ૮₍ ´• ˕ •` ₎ა ୨୧  
  Dev with a passion for chaos, code & cute things.
 
-![Azero Banner]([https://i.imgur.com/VaJf3BO.mp4])
+![Azero Banner]([https://i.imgur.com/XPoAL68.jpeg])
 
 </div>
 

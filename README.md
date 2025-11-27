@@ -15,7 +15,7 @@
 ### 🌸 About Me
 ```bash
 > whoami
-Azero – Web witch, script gremlin, catgirl enthusiast.
+Azero – Web witch, script gremlin
 ```
 
 - 💻 Python + Lua + C# 
@@ -30,8 +30,8 @@ Azero – Web witch, script gremlin, catgirl enthusiast.
 
 ```
 🎮 Gaming         💿 Music (breakcore, rock, rap, hyperpop)
-🎨 Digital Art    ✍️ Writing weird bios like this
-💤 Staying up late    🐱 Catgirls... probably
+🎨 Digital Art    
+💤 Staying up late    
 ```
 
 ---
@@ -48,7 +48,7 @@ Tools: [ Git, VSCode, Blender ]
 ### 📫 Reach Out
 
 - 💌 Discord: `azero`
-- 💕 Support: [throne.com/azero](https://throne.com/azero)
+
 
 <div align="center">
   

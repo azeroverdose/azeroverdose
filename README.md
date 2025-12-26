@@ -18,8 +18,8 @@
 Azero – Web witch, script gremlin
 ```
 
-- 💻 Python + Lua + C# 
-- 🎨 Web tinkerer: HTML, CSS, JS + spicy frameworks
+- 💻 Python + Lua + C#, C++
+- 🎨 Web tinkerer: JS + spicy frameworks
 - ✨ Anime aesthetics, vaporwave vibes & cozy chaos
 - 🧪 Always experimenting with style, UI, and edge cases
 - 🌍 From Sweden, coding past bedtime
@@ -39,9 +39,9 @@ Azero – Web witch, script gremlin
 ### 🧰 Tech Stack
 
 ```yaml
-Languages: [ Python, Lua, C#, Java, HTML, JavaScript ]
+Languages: [ Python, Lua, C#, C++, Java,, JavaScript ]
 Frameworks: [ Flask, Node.js, Vue, Bootstrap, Tailwind ]
-Tools: [ Git, VSCode, Blender ]
+Tools: [ Git, VSCode, neovim, Blender ]
 ```
 
 
